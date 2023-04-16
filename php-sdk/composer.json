@@ -1,0 +1,21 @@
+{
+    "name": "newlife-technologies/esoftpay-php-sdk",
+    "description": "This is the Official Repository for all SotPay Payment PHP SDK",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "NewlifeTechnologies\\EsoftpayPhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NewLife Technolgies Sarl",
+            "email": "contact@newlife-technologies.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    }
+}
